@@ -285,7 +285,7 @@ body {
         padding: 1px 7px;
     }
 }
-@media (max-width: 290px) {
+@media (max-width: 285px) {
     .mainNavCon {
         width: 98vw;
         padding: 5px 1px;
@@ -294,23 +294,23 @@ body {
     #inputt {
         border-radius: 5px;
         padding: 3px 0px 3px 6px;
-        font-size: 9px;
+        font-size: 8px;
     }
 
     #searchBtn {
         border-radius: 5px;
         padding: 3px 5px;
         margin-left: 0;
-        font-size: 9px;
+        font-size: 8px;
     }
 
     .logo {
-        font-size: 12px;
+        font-size: 11px;
         border-radius: 6px;
         padding: 1px 5px;
     }
     .ctAndCountryName{
-        font-size: 31px;
+        font-size: 26px;
     }
 }
 
